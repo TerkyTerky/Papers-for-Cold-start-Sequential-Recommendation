@@ -1,4 +1,4 @@
-# Cold-start Sequential Recommendation
+# 🔥 A Survey on Cold-start Sequential Recommendation ❄️
 
 ## Conventional Sequential Recommendation
 
